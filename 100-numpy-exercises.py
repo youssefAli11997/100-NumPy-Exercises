@@ -10,7 +10,7 @@ z = np.zeros(10)
 print(z)
 
 #04
-#python3 -c "import numpy; numpy.info(numpy.add)"
+python3 -c "import numpy; numpy.info(numpy.add)"
 
 #05
 x = np.zeros(10)
