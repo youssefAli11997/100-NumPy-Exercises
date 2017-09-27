@@ -86,3 +86,5 @@ false
 vec = np.diag(np.arange(1,5), k=-1)
 print(vec)
 
+#019
+
